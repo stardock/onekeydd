@@ -20,4 +20,5 @@ WIN：集合了“”萌咖大佬、老司机、MeowLove “”的系统
     ##镜像文件在GoogleDrive
     wget -N --no-check-certificate https://raw.githubusercontent.com/veip007/dd/master/dd-gd.sh && chmod +x dd-gd.sh && ./dd-gd.sh
 
-复制代码  
+
+Reference: https://www.hostloc.com/thread-583956-1-2.html  
